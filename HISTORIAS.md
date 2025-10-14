@@ -41,3 +41,4 @@ El jugador quiere que al perder todas sus vidas aparezca una pantalla de “Game
 El jugador quiere que al completar todos los edificios se muestre una pantalla final donde el personaje se gradúe de la Universidad Nacional, con felicitación.
 
 
+
