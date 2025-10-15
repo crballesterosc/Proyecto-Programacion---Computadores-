@@ -12,7 +12,8 @@
 
 #Este es el mockup de "GAME OVER"
 
-<img width="512" height="292" alt="image" src="https://github.com/user-attachments/assets/c10fce59-2f77-4cf3-afbf-8e0ff548e576" />
+![Imagen de WhatsApp 2025-10-14 a las 00 13 20_a1c644c3](https://github.com/user-attachments/assets/7fce6c28-7111-4343-abd4-7782ebdf5886)
+
 
 
 
