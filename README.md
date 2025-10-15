@@ -17,3 +17,26 @@
 
 
 
+#Este es el mockup de pantalla de Configuracion
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9ebdde19-5e2e-4a8a-a8a7-dc641aa0c5d0" />
+
+
+
+
+#Este es el mockup de pantalla de pregunta
+
+
+
+
+#Este es el mockup de pregunta mal respondida
+
+
+
+
+#Este es el mockup de pregunta bien respondida
+
+
+
+
+#Este es el mockup del Final del Juego
+
