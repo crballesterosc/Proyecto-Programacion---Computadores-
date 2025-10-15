@@ -25,6 +25,7 @@
 
 #Este es el mockup de pantalla de pregunta
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3317d9ad-6d35-41ca-b19c-761e7e8ad0cb" />
 
 
 
