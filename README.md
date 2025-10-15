@@ -31,13 +31,16 @@
 
 #Este es el mockup de pregunta mal respondida
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/23ba1883-fb13-4163-836c-22798f438549" />
 
 
 
 #Este es el mockup de pregunta bien respondida
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/024a1d5b-2ab1-43f4-882a-cf7efa959fc7" />
 
 
 
 #Este es el mockup del Final del Juego
+
 
