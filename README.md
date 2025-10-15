@@ -5,7 +5,8 @@
 
 #Este es el mockup del menu del juego
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b1a4e081-2f05-43c4-adae-318a08300f72" />
+![Imagen de WhatsApp 2025-10-13 a las 23 51 22_f843539d](https://github.com/user-attachments/assets/91b0d946-74b7-4041-91f4-23106f5b81f9)
+
 
 
 
