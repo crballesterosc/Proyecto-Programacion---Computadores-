@@ -9,6 +9,27 @@
 
 
 
+## Este es el mapa del juego
+
+<img width="764" height="632" alt="image" src="https://github.com/user-attachments/assets/8b462f28-6f09-4c93-bba4-a05acd705724" />
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6ac008e1-f8fd-4895-a9e1-5322d622cf0b" />
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b7ba1b09-e083-4265-a23f-2ac8346a4f37" />
+
+
+
+## Este es el personaje del juego
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef0e0588-cdf2-44bd-99d7-18d21cb3f463" />
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/104d7784-d01a-4b31-a9ae-d7cd08c36715" />
+
+
+
 
 ## Este es el mockup de "GAME OVER"
 
@@ -42,5 +63,8 @@
 
 
 ## Este es el mockup del Final del Juego
+
+<img width="1088" height="960" alt="image" src="https://github.com/user-attachments/assets/b7c6b400-2642-41ae-8dca-fb8773215472" />
+
 
 
