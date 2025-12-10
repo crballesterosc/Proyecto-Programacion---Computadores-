@@ -12,8 +12,6 @@ El jugador quiere que el juego tenga controles simples (flechas o teclas) para m
 
 El jugador quiere que se muestre el número de vidas que tiene en pantalla para saber cuántas oportunidades le quedan.
 
-El jugador quiere que se vea el mapa del campus de la Universidad Nacional para escoger por qué edificio empezar y para cual dirigirse
-
 El jugador quiere que cada edificio tenga su propio fondo o colores según lo que se enseña allí
 
 El jugador quiere que cada edificio sea un nivel con plataformas y obstáculos sencillos.
@@ -22,23 +20,9 @@ El jugador quiere que al caer o chocar con un obstáculo pierda una vida para ma
 
 El jugador quiere que en cada edificio haya un punto donde aparezcan preguntas relacionada con esa facultad.
 
-El jugador quiere que si responde bien las pregunta se guarde su avance en ese punto.
-
-El jugador quiere que si responde mal una pregunta pierda una vida como castigo.
-
-El jugador quiere que el juego le muestre si su respuesta fue correcta o incorrecta para aprender.
-
-El jugador quiere empezar el juego con 5 vidas para tener varias oportunidades.
-
-El jugador quiere poder encontrar corazones extra en el edificio de medicina.
-
-El jugador quiere que al tocar un corazón se le haga una pregunta rápida para ganarse la vida extra.
-
-El jugador quiere que, si falla esa pregunta, pierda una vida como penalización.
+El jugador quiere empezar el juego con 10 vidas para tener varias oportunidades.
 
 El jugador quiere que al perder todas sus vidas aparezca una pantalla de “Game Over” con opción de reiniciar.
-
-
 
 El jugador quiere que al completar todos los edificios se muestre una pantalla final donde el personaje se gradúe de la Universidad Nacional, con felicitación.
 
