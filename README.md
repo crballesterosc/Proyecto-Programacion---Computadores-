@@ -178,11 +178,7 @@ Python no encuentra firebase_key.json:
  Revisar ruta: FIREBASE/firebase_key.json 
 Asegurarse de que la ventana Tkinter ya se haya cerrado. 
 
-
-
-
-## Esta es la documentacion de los mockups del juego
-
+# Mockups utilizados
 
 ## Este es el mockup del menu del juego
 
