@@ -1,13 +1,13 @@
 # Proyecto-Programacion---Computadores-
 
 
-DESCRIPCIÓN DEL JUEGO
-Vive la Aventura UNAL (ArcUnal) es un videojuego de plataformas arcade que toma como referencia la Universidad Nacimiento de Colombia y su campus, además se intenta representar los niveles como edificios de la misma, y al personaje como uno de sus estudiantes, aparte de ello  se usa  una modalidad inspirada en el juego muy conocido llamado “Mario Bross” .
+## DESCRIPCIÓN DEL JUEGO
 
+Vive la Aventura UNAL (ArcUnal) es un videojuego de plataformas arcade que toma como referencia la Universidad Nacimiento de Colombia y su campus,
+además se intenta representar los niveles como edificios de la misma, y al personaje como uno de sus estudiantes, aparte de ello  se usa  una modalidad
+inspirada en el juego muy conocido llamado “Mario Bross” .
 
-
-
-1. Información general
+### 1. Información general
 Antes de iniciar, se debe descomprimir la carpeta del archivo ZIP en archivos y guardarla, ya que trabajar únicamente dentro de la carpeta descomprimida. 
 
 ArcUnal fue desarrollado en python, utilizando:
@@ -15,12 +15,8 @@ Tkinter → Pantalla de recolección de datos.
 Pygame → Menú y niveles en 2D. 
 Firebase Firestore → Almacenamiento del nombre y vidas del jugador,volumen, y puntaje. 
 Toda la ejecución, desarrollo y administración del proyecto se realiza desde Visual Studio Code (VS Code). 
- 
 
-
-
-
-2. Requisitos del Sistema 
+ ### 2. Requisitos del Sistema 
 Sistema Operativo: 
 Windows, macOS o Linux 
 Software necesario ::
@@ -34,12 +30,7 @@ tkinter (incluida en la mayoría de instalaciones)
 Conectividad:
 Se requiere conexión a Internet para conectarse a Firebase. 
 
- 
-
-
-
-
-3. Instalación y Preparación del juego
+### 3. Instalación y Preparación del juego
 
 3.1 Instalar Visual Studio Code : 
 Instalarlo desde la web oficial de VS code o desde la tienda de aplicaciones.
@@ -74,12 +65,13 @@ Para comprobar: Escribir “pip show firebase-admin” > aparecera algo asi:
     Author: Firebase”
 
 3.5 Especificaciones respecto a firebase:
-EL juego ya está completamente vinculado a la cuenta principal en la base de datos de firebase y ya se cuenta con la llave de acceso en la misma carpeta, por lo que no se deberá modificar nada en el código.
+EL juego ya está completamente vinculado a la cuenta principal en la base de datos de firebase y ya se cuenta con la llave 
+de acceso en la misma carpeta, por lo que no se deberá modificar nada en el código.
 
 
 
 
-4. Ejecución del juego en Visual Studio Code
+### 4. Ejecución del juego en Visual Studio Code
 
 4.1 Desde la interfaz gráfica:
 Se selecciona el botón ejecución (Run) que se encuentra en la parte superior derecha del editor de código, y se da click derecho en la opción Run python file.
@@ -91,7 +83,7 @@ Se abre el menú principal desarrollado con pygame.
 
 
 
-5 . Pantalla de recolección de datos: Tkinter
+### 5. Pantalla de recolección de datos: Tkinter
 
 5.1 Funcionamiento: 
 Campo con subtítulo : Nombre
@@ -107,8 +99,7 @@ Vidas
 Luego la ventana se cierra y carga el juego.
 
 
-
-6. Menú principal : Pygame
+### 6. Menú principal : Pygame
 Incluye:
 Jugar : Inicia el nivel 1
 Configuración:
@@ -123,7 +114,8 @@ En la pantalla aparece:
 Nombre del jugador
 Vidas del jugador
 
-7. Nivel 1: Edificio de  Química
+
+### 7. Nivel 1: Edificio de  Química
 7.1 Objetivo 
  Superar el escenario evitando lava roja y caídas, y llegar a la meta verde. 
 7.2 Controles 
@@ -147,10 +139,7 @@ Se carga Nivel 2
 
 
 
-
-
-
-8. Nivel 2 : Edificio de Ingeniería
+### 8. Nivel 2 : Edificio de Ingeniería
 
 8.1 Objetivo 
 Superar el segundo escenario con plataformas y lava. 
@@ -165,7 +154,7 @@ Se muestra “Nivel completado”
 Se abre la Pantalla Final siguiendo con la temática principal.
 
 
-9. Guardado
+### 9. Guardado
 Al salir de la configuración se guardan en Firestore:
  Jugador 
 Puntaje
@@ -173,17 +162,14 @@ Volumen
 Vidas del jugador
 
 
-
-10. Salir del juego
+### 10. Salir del juego
 Opciones: 
  Botón Salir del menú principal. 
 Cerrar la ventana de Pygame con el botón X. 
 Ambos métodos ejecutan: pygame.quit()
 
 
-
-
- 11. Posibles problemas
+### 11. Posibles problemas
 Tkinter no cierra: El campo de nombre está vacío. 
 Error de importación de pygame / firebase_admin 
 Las librerías no están instaladas en el intérprete seleccionado:
