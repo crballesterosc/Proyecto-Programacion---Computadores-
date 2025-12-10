@@ -171,12 +171,19 @@ Ambos métodos ejecutan: pygame.quit()
 
 ### 11. Posibles problemas
 Tkinter no cierra: El campo de nombre está vacío. 
+
 Error de importación de pygame / firebase_admin 
+
 Las librerías no están instaladas en el intérprete seleccionado:
+
  Solución: usar Python: Select Interpreter y reinstalar. 
+ 
 Python no encuentra firebase_key.json: 
+
  Revisar ruta: FIREBASE/firebase_key.json 
+ 
 Asegurarse de que la ventana Tkinter ya se haya cerrado. 
+
 
 # Mockups utilizados
 
